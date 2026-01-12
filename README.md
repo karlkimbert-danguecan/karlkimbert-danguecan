@@ -1,18 +1,18 @@
-# 🎨 KARL KIMBERT DANGUECAN | Creative Developer & Tech Enthusiast
+# KARL KIMBERT DANGUECAN | Creative Developer & Tech Enthusiast
 ### *Bridging the gap between logic and aesthetics.*
 
 ---
 
-## 🚀 The Vision
+## THE VISION
 I am an IT student at **Our Lady of Fatima University – Antipolo** who lives at the intersection of **pixel-perfect design** and **efficient code**. Whether it’s building a responsive web app or illustrating a digital world, I’m driven by the challenge of making things work beautifully.
 
-- 🛠️ **Current Focus:** Masterminding component-based UI with **React**.
-- 📱 **Exploring:** Building seamless mobile experiences with **Flutter**.
-- 🎨 **Creative Side:** Diving deep into digital illustration and graphic storytelling.
+- **Current Focus:** Masterminding component-based UI with **React**.
+- **Exploring:** Building seamless mobile experiences with **Flutter**.
+- **Creative Side:** Diving deep into digital illustration and graphic storytelling.
 
 ---
 
-## 🛠️ My Digital Toolbox
+## DIGITAL TOOLBOX
 
 | Category | Skills & Technologies |
 | :--- | :--- |
@@ -23,7 +23,7 @@ I am an IT student at **Our Lady of Fatima University – Antipolo** who lives a
 
 ---
 
-## 🎨 Creative Showcase & Interests
+## 🎨 CREATIVE INTERESTS & SHOWCASES
 *For me, IT isn't just about logic—it's the modern canvas for world-building.*
 
 * **The Power of Lore:** I am deeply captivated by game lore, intricate world-building, and fantasy-driven narratives. I thrive in communities built on a shared admiration for the "magic" of technology. To me, a great piece of software or a beautiful design should feel like a story you want to get lost in.
@@ -35,5 +35,5 @@ I am an IT student at **Our Lady of Fatima University – Antipolo** who lives a
 
 ---
 
-## 📫 Let's Collaborate!
+## LET'S COLLABORATE!
 I am currently looking for **Internship opportunities** where I can contribute to web and app development, graphic design, or illustration projects.
