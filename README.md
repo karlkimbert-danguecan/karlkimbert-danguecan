@@ -16,10 +16,10 @@ I am an IT student at **Our Lady of Fatima University – Antipolo** who lives a
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Development** | `JavaScript` `PHP` `HTML` `C++` `Python` `Java` |
-| **Design & UI** | `Figma` `UI/UX Design` `Illustration` `Digital Art` |
+| **Development** | `PHP` `HTML` `CSS` `Java` |
+| **Design & UI** | `Figma` `UI/UX Design` `Illustration` `Graphic Design` |
 | **Data & Cloud** | `MySQL` `Firebase` |
-| **Tools** | `Git` `VS Code` `Android Studio` `WordPress` `XAMPP` |
+| **Tools** | `Canva` `VS Code` `Android Studio` `WordPress` `XAMPP` |
 
 ---
 
